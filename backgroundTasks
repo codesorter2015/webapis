@@ -1,2 +1,4 @@
 Usage:
 1) Provides the ability to queue tasks to be executed automatically by the user agent when it determines that there is free time to do so.
+2) window.requestIdleCallback() 
+3) the above method ensure that the browser's event loop runs smoothy.
